@@ -10,11 +10,12 @@
 * [Another page in the group](this-is-a-group/another-page-in-the-group.md)
 
 ## Yet another group
-* [readme](yet-another-group/readme.md)
+
+* [readme](yet-another-group/yet-another-group.md)
 
 ## Another group
 
-* [External link](https://google.ca)
 * [Just a test](another-group/just-a-test.md)
+* [External link](https://google.ca)
 * [Another test](https://jay.holtslander.ca)
 
