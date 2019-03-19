@@ -12,4 +12,6 @@
 ## Another group
 
 * [External link](https://google.ca)
+* [Just a test](Readme.md)
+* [Another test](https://jay.holtslander.ca)
 
