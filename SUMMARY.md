@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Changed page title](README.md)
 * [A page outside of any groups](a-page-outside-of-any-groups.md)
 
 ## This is a group
