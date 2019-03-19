@@ -2,7 +2,7 @@
 
 * [Changed page title](README.md)
 * [A page outside of any groups](a-page-outside-of-any-groups.md)
-* [TOC item added on Github](a-file-created-on-github.md)
+* [TOC item added on Github](toc-item-added-on-github.md)
 
 ## This is a group
 

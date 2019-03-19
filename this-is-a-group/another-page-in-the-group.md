@@ -19,5 +19,5 @@ Once you're strong enough, save the world:
 echo 'You got to trust me on this, I saved the world'
 ```
 
-
+![](../.gitbook/assets/d11uihlu4aa3wb7.png-large.png)
 
